@@ -1,0 +1,41 @@
+# DREAMER dataset / derived data
+DREAMER.mat
+DREAMER_features.csv
+DREAMER_preprocessed.npy
+dreamer_outputs/
+
+# Documents
+documents/
+
+# Temporary files
+tempCodeRunnerFile.python
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs / temp
+*.log
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
