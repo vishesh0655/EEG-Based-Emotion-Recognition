@@ -42,7 +42,7 @@ The project uses the **DREAMER dataset**, which contains EEG recordings collecte
 
 The original DREAMER data was processed and converted into a structured format suitable for Python-based analysis and machine learning.
 
-> The original DREAMER dataset is not included in this repository because of dataset distribution and size considerations.
+> **Dataset Notice:** The DREAMER dataset and any processed copies of the dataset are not included or redistributed in this repository. Users who wish to reproduce the experiments should obtain the dataset through the original source and comply with the applicable access and usage conditions.
 
 ## ⚙️ Methodology
 
